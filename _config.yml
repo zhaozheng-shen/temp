@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhaozheng Shen"
 title_separator          : "-"
 name                     : &name "Zhaozheng Shen"
-description              : &description "MS of Data Science student in University of Pennsylvania"
+description              : &description "MSE of Data Science student in University of Pennsylvania"
 url                      : https://zhaozheng-shen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhaozheng-shen/zhaozheng-shen.github.io"
@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Zhaozheng Shen"
   avatar           : 
-  bio              : "MS of Data Science student in University of Pennsylvania"
+  bio              : "MSE of Data Science student in University of Pennsylvania"
   location         : "Philadelphia, PA, USA"
   employer         :
   pubmed           :
