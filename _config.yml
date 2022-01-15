@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ganlin Zhang"
+title                    : "Zhaozheng Shen"
 title_separator          : "-"
-name                     : &name "Ganlin Zhang"
-description              : &description "MSc of Computer Science student in ETH Zurich"
-url                      : https://zhangganlin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Zhaozheng Shen"
+description              : &description "MS of Data Science student in University of Pennsylvania"
+url                      : https://zhaozheng-shen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhangganlin/zhangganlin.github.io"
+repository               : "zhaozheng-shen/zhaozheng-shen.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : profile.jpg # Open Graph/Twitter default site image
+og_image                 : 
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -82,15 +82,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ganlin Zhang"
-  avatar           : "profile.jpg"
-  bio              : "MSc of Computer Science student in ETH Zurich"
-  location         : "Zurich"
+  name             : "Zhaozheng Shen"
+  avatar           : 
+  bio              : "MS of Data Science student in University of Pennsylvania"
+  location         : "Philadelphia, PA, USA"
   employer         :
   pubmed           :
   orcid            : 
   googlescholar    : 
-  email            : "zhangga@student.ethz.ch"
+  email            : "shenzhzh@seas.upenn.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,14 +99,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zhangganlin"
+  github           : "zhaozheng-shen"
   gitlab           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "ganlin-zhang"
+  linkedin         : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
